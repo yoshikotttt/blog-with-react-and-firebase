@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00213b;
+    height: 50px;
+    gap: 45px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #cee2df;
+}
+
+nav a:hover {
+    color: aqua;
+}
